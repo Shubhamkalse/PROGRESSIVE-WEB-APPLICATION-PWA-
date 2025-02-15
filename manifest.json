@@ -1,0 +1,21 @@
+{
+    "name": "Bike Blog PWA",
+    "short_name": "Food Blog",
+    "start_url": "/Bike.html",
+    "display": "standalone",
+    "background_color": "#ff6347",
+    "theme_color": "#ff6347",
+    "icons": [
+        {
+            "src": "/images/icon.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "/images/icon.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ]
+}
+

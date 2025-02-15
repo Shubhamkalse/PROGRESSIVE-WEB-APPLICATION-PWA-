@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bikes Blogs</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <script defer src="apps.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Bikes Blogs</h1>
+    </header>
+    <main>
+        <section class="post">
+            <img src="images/bike1.1.jpg" alt="Recipe 1">
+            <h2>MT-15 V2 </h2>
+            <p>The Yamaha MT 15 V2.0 is powered by a 155 cc air-cooled engine which produces 18.4 PS @ 10000 rpm of power. .</p>
+            <!-- <button id="rec-button">Click</button> -->
+        </section>
+        <section class="post">
+            <img src="images/Bike2.jpg" alt="Recipe 2">
+            <h2>Yamaha RX350</h2>
+            <p>The Yamaha RX350 is a motorcycle that has a front disc brake and an irregular pitch spring on its rear suspension. </p>
+        </section>
+        <section class="post">
+            <img src="images/bike3.jpg" alt="Recipe 1">
+            <h2>Yamaha FZ </h2>
+            <p>The Yamaha FZ is a motorcycle brand that has been popular with young men since its introduction in 2008.  @ 10000 rpm of power. .</p>
+            <!-- <button id="rec-button">Click</button> -->
+        </section>
+    </main>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service-worker.js')
+                .then(reg => console.log('Service Worker Registered', reg))
+                .catch(err => console.log('Service Worker Failed', err));
+        }
+    </script>
+</body>
+</html>
+
+<!-- cntrl+shift+R==to refresh the website -->
