@@ -29,6 +29,10 @@ The development process follows a structured approach: first, defining user jour
 
 In conclusion, this PWA for an E-commerce Platform demonstrates my ability to create fast, engaging, and reliable web applications with modern technologies. The integration of Service Workers, Cache API, and responsive design ensures an optimized user experience. Push notifications and offline support enhance user engagement, while security and background sync maintain reliability. This project highlights my proficiency in building scalable, user-centric web solutions that bridge the gap between web and mobile experiences.
 
+**OUT PUT**
+![Image](https://github.com/user-attachments/assets/e72825a5-cdd5-4aa8-b445-b183ef3aa727)
+![Image](https://github.com/user-attachments/assets/e158b333-4e93-4776-b0be-9e4267c52741)
+![Image](https://github.com/user-attachments/assets/d7f0cd4a-70a9-4b50-ab00-c218734c82ec)
 
 
 
