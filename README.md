@@ -1,9 +1,16 @@
 # PROGRESSIVE-WEB-APPLICATION-PWA-
 
+**COMPANY**: CODTECH IT SOLUTIONS
 
+**NAME**: Shubham kalse
 
+**INTERN ID**: CT08MZF
 
+**DOMAIN**: WEB DEVELOPMENT
 
+**BATCH DURATION**: JAN 15TH,2025 to FAB 15th, 2025
+
+**MENTOR NAME**: NEELA SANTHOSH
 
 
 A **Progressive Web Application (PWA)** for an e-commerce platform is designed to deliver a fast, reliable, and engaging shopping experience across all devices. This PWA integrates essential features such as offline functionality, push notifications, and responsive design, making it a robust alternative to native apps. Built using modern web technologies, it combines the accessibility of a website with the rich user experience of a mobile app.
